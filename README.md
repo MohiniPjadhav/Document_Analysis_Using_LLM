@@ -27,5 +27,5 @@ A Streamlit-based web application for document analysis using the Groq API and M
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/document-analysis-llm.git
+   git clone https://github.com/MohiniPjadhav/Document_Analysis_Using_LLM.git
    cd document-analysis-llm
