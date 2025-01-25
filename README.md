@@ -19,7 +19,7 @@ A Streamlit-based web application for document analysis using the Groq API and M
 ---
 
 ## **Demo**
-![App Screenshot](./assets/screenshot.png)
+![App Screenshot](./app.png)
 
 ---
 
